@@ -20,6 +20,6 @@
 -   [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 
-## :memo: Licença
+## :memo: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
