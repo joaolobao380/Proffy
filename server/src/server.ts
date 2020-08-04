@@ -1,7 +1,12 @@
 import express from 'express'
+import routes from './routes';
+import cors from 'cors';
 
 const app = express();
-app.use(express.json())
+
+
+app.use(cors());
+app.use(express.json());
 
 //GET: Buscar ou listar uma informação
 //POST: Criar alguma nova informação
@@ -12,9 +17,7 @@ app.use(express.json())
 //Route Params: Indetificar qual recurso eu quero atualizar ou deletar
 //Query Params: Paginação, filtros, ordenação
 
-app.get('/', (request, response) => {
-    return response.json({message: 'Hello world'});
-})
+app.use(routes)
 
 
 app.listen(3333);
