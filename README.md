@@ -12,9 +12,9 @@
 </h1>
 
 ### FRONT-END
--   <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="20px" height="15px"> <br/>[ReactJS](https://reactjs.org/)
--   <img src="https://breitembach.github.io/assets/icons/css.png" width="20px" height="17px"><br/>[CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
--   <img src="https://img1.gratispng.com/20180809/rok/kisspng-javascript-and-jquery-interactive-front-end-web-d--5b6cfa25cf8a30.0077362015338685818501.jpg"                 width="20px" height="15px"><br />[JavaScript](https://www.typescriptlang.org/)
+-   <img src="https://cdn.worldvectorlogo.com/logos/react.svg" width="20px" height="15px">[ReactJS](https://reactjs.org/)
+-   <img src="https://breitembach.github.io/assets/icons/css.png" width="20px" height="17px">[CSS3](https://www.w3.org/Style/CSS/Overview.en.html)
+-   <img src="https://img1.gratispng.com/20180809/rok/kisspng-javascript-and-jquery-interactive-front-end-web-d--5b6cfa25cf8a30.0077362015338685818501.jpg"                 width="20px" height="15px">[JavaScript](https://www.typescriptlang.org/)
 -   [Create React App Configuration Override](https://github.com/sharegate/craco)
 -   [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
