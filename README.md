@@ -11,6 +11,10 @@
     <img alt="Proffy" src="https://github.com/joaolobao380/Proffy/blob/assets/landingPage.gif" width="800px" />
 </h1>
 
+### FRONT-END
+-   [ReactJS](https://reactjs.org/)
+-   [Create React App Configuration Override](https://github.com/sharegate/craco)
+-   [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 
 ## :rocket: Linguagens utilizadas
