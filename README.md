@@ -40,6 +40,24 @@ $ yarn install
 $ yarn start
 ```
 
+### Install Back
+```bash
+
+# Go into the server path
+$ cd Proffy/server
+
+# Install dependencies
+$ yarn install
+
+# Run the Front
+$ yarn start
+```
+### Run Migrate
+```bash
+
+# Run migrate
+$ yarn knex:migrate
+```
 
 ## :memo: License
 
