@@ -1,4 +1,15 @@
 <h1 align="center">
+    <img alt="Go Stack logo" src="https://github.com/joaolobao380/Proffy/blob/assets/nlw.svg" />
+    <br>
+    Proffy
+</h1>
+
+<h4 align="center">
+  App proffy [RocketSeat Next Level Week 2](https://nextlevelweek.com/inscricao/2)
+</h4>
+
+
+<h1 align="center">
     <img alt="Proffy" src="https://github.com/joaolobao380/Proffy/blob/assets/landingPage.gif" width="800px" />
 </h1>
 
