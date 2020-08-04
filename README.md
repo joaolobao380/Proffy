@@ -20,6 +20,28 @@
 -   [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 
+
+### Clone repository
+```bash
+# Clone this repository
+$ git clone https://github.com/joaolobao380/Proffy.git
+```
+
+
+### Install Front
+```bash
+
+# Go into the web path
+$ cd Proffy/web
+
+# Install dependencies
+$ yarn install
+
+# Run the Front
+$ yarn start
+```
+
+
 ## :memo: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
