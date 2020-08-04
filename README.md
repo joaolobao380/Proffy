@@ -3,19 +3,14 @@
     <br>
     Proffy
 </h1>
-
-<h4 align="center">
-  App proffy [RocketSeat Next Level Week 2](https://nextlevelweek.com/inscricao/2)
-</h4>
-
+<h3 align="center">
+  App proffy [RocketSeat Next Level Week #2](https://nextlevelweek.com/inscricao/2)
+</h3>
 
 <h1 align="center">
     <img alt="Proffy" src="https://github.com/joaolobao380/Proffy/blob/assets/landingPage.gif" width="800px" />
 </h1>
 
-<h3 align="center">
-  Next Level Week #2 - Proffy.
-</h3>
 
 
 ## :rocket: Linguagens utilizadas
