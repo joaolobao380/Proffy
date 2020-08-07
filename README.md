@@ -18,6 +18,11 @@
 -   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWMKVBJ_CZ61ofL_QC6KgtbZj9zYrJPrSyCw&usqp=CAU" width="20px" height="20px">[TypeScript](https://www.typescriptlang.org/)
 -   [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
+## :rocket: BACK-END
+-   <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="20px" height="15px">[NodeJS](https://nodejs.org/en/)
+-   [Express](https://expressjs.com/pt-br/)
+-   [VS Code] with[ESLint]
+
 
 
 ### Clone repository
